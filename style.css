@@ -1,0 +1,110 @@
+
+
+.título{
+    color:rgb(0, 132, 255);
+    /*cor de texto*/
+    text-align: ;
+    /*alinhar o texto*/
+    border-color: blue;
+    /*cor da borda*/
+    border-width:6px;
+    /*grossura da borda*/
+    border-style: ;
+    /*design da borda*/
+    margin-left: 35%;
+    /*margem externa que leva toda a moldura e tudo dentro dela para a direita*/
+    padding-left:0%;
+    /*margem interna que leva toda a escrita dentro da moldura para direita, mantendo a moldura no lugar */
+    background-color: ;
+    /*cor de fundo dentro da moldura*/
+}
+
+.subtítulo{color:rgba(0, 102, 255, 0.575);
+    text-align:center ;
+}
+.colégio{color:green; 
+    text-align:center ;   
+}
+.prof{color: brown;
+    text-align: center;
+}
+.p1{
+    color:rgb(255, 255, 255);
+    border-color: rgb(0, 38, 255);
+    border-width:6px;
+    border-style:outset ;
+    margin-left: 30%;
+    margin-right: 40%;
+    padding-left:10%;
+    background-color:rgb(0, 102, 255) ;
+}
+.p2{
+    color:rgb(255, 153, 1);
+    border-color: rgb(112, 0, 0);
+    border-width:6px;
+    border-style: outset;
+    margin-left: 50%;
+    margin-right:10% ;
+    padding-left:20%;
+    background-color:rgb(173, 10, 10) ;
+}
+.p3{
+    color:rgb(179, 255, 0);
+    border-color: rgba(8, 245, 99, 0.24);
+    border-width:6px;
+    border-style:dashed ;
+    margin-left: 10%;
+    margin-right: 20%;
+    padding-left:40%;
+    background-color:rgba(0, 128, 0, 0.897) ;
+}
+.p4{
+    color:rgb(248, 248, 248);
+    border-color: rgb(140, 0, 255);
+    border-width:18px;
+    border-style:ridge ;
+    margin-left: 20%;
+    margin-right: 45%;
+    text-align: center;
+    background-color:rgb(79, 1, 124) ;
+}
+.p5{
+    color:rgb(255, 255, 255);
+    border-color: rgb(50, 50, 53);
+    border-width:20px;
+    border-style:solid ;
+    margin-left: 40%;
+    margin-right: 30%;
+    text-align: center;
+    background-color:rgb(150, 144, 144) ;
+}
+.p6{
+    color:rgb(105, 4, 4);
+    border-color: rgba(255, 123, 0, 0.575);
+    border-width:20px;
+    border-style:outset;
+    margin-left: 5%;
+    margin-right: 50%;
+    text-align:center;
+    background-color:rgba(255, 166, 0, 0.842) ;
+}
+.p7{
+    color:rgb(0, 68, 255);
+    border-color: rgba(1, 53, 83, 0.623);
+    border-width:6px;
+    border-style:outset ;
+    margin-left: 35%;
+    margin-right: 40%;
+    padding-left:10%;
+    background-color:rgb(0, 195, 255) ;
+}
+
+.font1{font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:<weight>;
+    font-style:normal;}
+
+.font2{font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style:normal;}
